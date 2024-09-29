@@ -41,6 +41,8 @@
 // }
 // console.log(x);
 
+
+// Access Variable with Function Scope
 // function show() {
 //     const x = 5;
 //     console.log(x);
