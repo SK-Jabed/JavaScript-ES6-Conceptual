@@ -1,5 +1,4 @@
 // Logical Operators: and, or, not ==> &&, ||, !
-
 const x = 5;
 console.log(!!x);
 
@@ -12,7 +11,6 @@ const bus = "Bus ache";
 const rickshaw = "rickshaw ache";
 console.log(bus || rickshaw);
 
-// Ternary
+// Ternary : Statement or Condition ? if true : if false
 const y = 10;
-console.log(y === 5 ? "Number is 5" : "Number is not five");
-
+console.log(y === 5 ? "Number is five" : "Number is not five");

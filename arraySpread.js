@@ -1,3 +1,4 @@
+// Array Spreading
 const array1 = [1, 2, 3, 4, 5];
 const array2 = [...array1];
 // for (let item of array1) {
@@ -12,7 +13,9 @@ console.log(array1);
 console.log(array2);
 
 
+// Array Destructuring
 const names = ["Abul Kashem", "Kuddus Miya", "Mokbul Hossain"];
+
 // const name1 = names[0];
 // const name2 = names[1];
 // const name3 = names[2];
@@ -21,6 +24,7 @@ const names = ["Abul Kashem", "Kuddus Miya", "Mokbul Hossain"];
 // console.log(name2);
 // console.log(name3);
 
-const [_, y, z] = ["Abul Kashem", "Kuddus Miya", "Mokbul Hossain"];
-console.log(z);
+// const [ , , z] = ["Abul Kashem", "Kuddus Miya", "Mokbul Hossain"];
+const [_, y, z] = names;
 
+console.log(z);

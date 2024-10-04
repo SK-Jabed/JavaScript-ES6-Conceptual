@@ -11,4 +11,4 @@ Introduction To ES6
 08. Optional Chaining of Object 
 09. Function with Default Parameters 
 10. Arrow Function 
-11. Array Foreach, Map, Filter, Find Function
+11. Array ForEach, Map, Filter, Find Function

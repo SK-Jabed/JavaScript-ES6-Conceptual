@@ -1,5 +1,5 @@
 /*
-* Types of Scope in JavaScript
+* Types of Scope in JavaScript:-
 * 01. Global scope
 * 02. Block scope [Only Applicable for const & let Variable]
 * 03. Function scope
